@@ -1,0 +1,15 @@
+body {
+    background-color: #f96c6c;
+    color: #000000;
+    padding: 10px;
+    font-family:'Calibri', Courier, monospace;
+  }
+
+p {
+    padding:10px;
+    border-radius:10%;
+    background-color:honeydew;
+
+#facts {
+    font-weight: bold;
+  
